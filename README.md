@@ -1,4 +1,4 @@
-Dynamics 365 and Power Platform.
+Dynamics 365 and PowerApps Platform.
 
 <!---
 a-deo/a-deo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
